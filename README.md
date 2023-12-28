@@ -1,16 +1,12 @@
-### Hi there 👋
+<div id="header" align="center">
+  I'm looking for myself! 
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/Ta3v3I4GI1gH7Rqek6/giphy.gif" width="300"/>
+</div>
 
-<!--
-**trasytrasytaylor/trasytrasytaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+____________________________________________________
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I want to work like this!
+<div align="center">
+<img src="https://media.giphy.com/media/cnEuzh1XSgLe0D15lC/giphy.gif" width="600" height="300"/>
+</div>
